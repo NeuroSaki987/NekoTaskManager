@@ -1,0 +1,6 @@
+#pragma once
+#define IDI_APPICON 101
+#define IDR_APP_MANIFEST 1
+#define IDR_BACKGROUND_JPG 201
+#define IDR_ABOUT_PNG 202
+#define IDR_USER_CUSTOM_FONT 301
