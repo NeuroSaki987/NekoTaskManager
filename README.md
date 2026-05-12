@@ -3,8 +3,8 @@
 
 ## 下载
  - Release
- - **NekoTaskManager(x64) v1.1** 常规版本
- - **NekoTaskManager(x64) v1.0 Beta** 添加内核驱动版本，可靠性未经测试，驱动未签名
+ - **NekoTaskManager(x64) v1.2.0** 常规版本
+ - **NekoTaskManager(x64) v1.0 Beta**  内核驱动版本，TestMode测试成功，现只有 Kill 功能经过 kernel，其他的正在测试
 
 ## 项目结构
 
@@ -47,4 +47,4 @@ NekoTaskManager/
 
 ## 功能问题
   - 保护进程的内核绕过（Beta版正在测试中）
-  - GPU 指标基于 `\GPU Engine(*)\Utilization Percentage` 的 PDH 聚合。可能导致GPU计数器为0（好像事实就是这样）
+
