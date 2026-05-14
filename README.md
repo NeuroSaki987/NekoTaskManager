@@ -11,11 +11,11 @@
 
 - **NekoTaskManager(x64) v1.0 Beta**（内核驱动版本）  
   功能一般，经过稳定性测试  
-  [📥 前往下载页面](https://github.com/NeuroSaki987/NekoTaskManager/releases/tag/v1.0-beta)
+  [📥 前往下载页面](https://github.com/NeuroSaki987/NekoTaskManager/releases/tag/v1.0_beta)
 
 - **NekoTaskManager(x64) v1.3.5 test**（内核驱动版本）  
   功能强大，但驱动为屎山代码，极易崩溃，仅供测试使用  
-  [📥 前往下载页面](https://github.com/NeuroSaki987/NekoTaskManager/releases/tag/v1.3.5-test)
+  [📥 前往下载页面](https://github.com/NeuroSaki987/NekoTaskManager/releases/tag/v1.3.5_test)
 ## 项目结构
 
 ```text
