@@ -1,10 +1,20 @@
 # NekoTaskManager
 一个简易的甘城猫猫风格任务管理器，**Nya~**
 
+
 ## 下载
- - Release
- - **NekoTaskManager(x64) v1.2.0** 常规版本
- - **NekoTaskManager(x64) v1.0 Beta**  内核驱动版本，TestMode测试成功，现只有 Kill 功能经过 kernel，其他的正在测试
+
+- **NekoTaskManager(x64) v1.2.0**（Lasted 最新版）  
+  [📥 下载](https://github.com/你的用户名/NekoTaskManager/releases/download/v1.2.0/NekoTaskManager_x64_v1.2.0.zip)  
+  
+
+- **NekoTaskManager(x64) v1.0 Beta**（内核驱动版本）    功能一般，经过稳定性测试
+  [📥 下载](https://github.com/你的用户名/NekoTaskManager/releases/download/v1.0-beta/NekoTaskManager_x64_v1.0_Beta.zip)  
+  
+
+- **NekoTaskManager(x64) v1.3.5 test**（内核驱动版本）  功能强大，但驱动为屎山代码，极易崩溃，仅供测试使用
+  [📥 下载](https://github.com/你的用户名/NekoTaskManager/releases/download/v1.3.5-test/NekoTaskManager_x64_v1.3.5_test.zip)  
+  
 
 ## 项目结构
 
@@ -47,4 +57,6 @@ NekoTaskManager/
 
 ## 功能问题
   - 保护进程的内核绕过（Beta版正在测试中）
+  - 驱动设计问题
+  - 由于安全性和防滥用，暂不提供驱动源码
 
