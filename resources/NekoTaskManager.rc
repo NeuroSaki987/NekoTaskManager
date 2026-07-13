@@ -1,0 +1,6 @@
+#include "resource.h"
+IDI_APPICON ICON "neko.ico"
+IDR_APP_MANIFEST RT_MANIFEST "app.manifest"
+IDR_BACKGROUND_JPG RCDATA "../assets/background.jpg"
+IDR_ABOUT_PNG RCDATA "../assets/about_neko.png"
+IDR_USER_CUSTOM_FONT RCDATA "../assets/fonts/user_custom.ttf"
